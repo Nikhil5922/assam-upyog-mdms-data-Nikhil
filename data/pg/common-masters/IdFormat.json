@@ -806,6 +806,10 @@
         {
             "format": "BPA/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "bpa.planning_permit_fee.receipt.id"
+        },
+        {
+            "format": "BPA/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "bpa.building_permit_fee.receipt.id"
         }
     ]
 }
