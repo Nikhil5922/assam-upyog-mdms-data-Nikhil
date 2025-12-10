@@ -1379,10 +1379,10 @@
       "emailId": "info.madhurbondgp@gmail.com",
       "city": {
         "name": "Madhur Bond",
-        "districtName": null,
+        "districtName": "Cachar",
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "MADHUR_BOND",
-        "districtTenantCode": "as.madhurbond",
+        "districtCode": "CACHAR",
+        "districtTenantCode": "as.silchar",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1659",
         "ddrName": "Madhur Bond Gram Panchayat"
@@ -1400,10 +1400,10 @@
       "emailId": "info.berengagp@gmail.com",
       "city": {
         "name": "Berenga-",
-        "districtName": null,
+        "districtName": "Cachar",
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "BERENGA_",
-        "districtTenantCode": "as.berenga",
+        "districtCode": "CACHAR",
+        "districtTenantCode": "as.silchar",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1660",
         "ddrName": "Berenga- Gram Panchayat"
@@ -1421,10 +1421,10 @@
       "emailId": "info.bhagadharbarjuraigp@gmail.com",
       "city": {
         "name": "Bhagadhar Barjurai",
-        "districtName": null,
+        "districtName": "Cachar",
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "BHAGADHAR_BARJURAI",
-        "districtTenantCode": "as.bhagadharbarjurai",
+        "districtCode": "CACHAR",
+        "districtTenantCode": "as.silchar",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1661",
         "ddrName": "Bhagadhar Barjurai Gram Panchayat"
@@ -1442,10 +1442,10 @@
       "emailId": "info.ambikapurgp@gmail.com",
       "city": {
         "name": "Ambikapur",
-        "districtName": null,
+        "districtName": "Cachar",
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "AMBIKAPUR",
-        "districtTenantCode": "as.ambikapur",
+        "districtCode": "CACHAR",
+        "districtTenantCode": "as.silchar",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1662",
         "ddrName": "Ambikapur Gram Panchayat"
@@ -1463,10 +1463,10 @@
       "emailId": "info.ghungoorgp@gmail.com",
       "city": {
         "name": "5 No Ghungoor",
-        "districtName": null,
+        "districtName": "Cachar",
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "5_NO_GHUNGOOR",
-        "districtTenantCode": "as.ghungoor",
+        "districtCode": "CACHAR",
+        "districtTenantCode": "as.silchar",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1663",
         "ddrName": "5 No Ghungoor Gram Panchayat"
@@ -1484,10 +1484,10 @@
       "emailId": "info.bhanjantipurgp@gmail.com",
       "city": {
         "name": "Bhanjantipur",
-        "districtName": null,
+        "districtName": "Cachar",
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "BHANJANTIPUR",
-        "districtTenantCode": "as.bhanjantipur",
+        "districtCode": "CACHAR",
+        "districtTenantCode": "as.silchar",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1664",
         "ddrName": "Bhanjantipur Gram Panchayat"
@@ -1505,10 +1505,10 @@
       "emailId": "info.meherpurgp@gmail.com",
       "city": {
         "name": "Meherpur",
-        "districtName": null,
+        "districtName": "Cachar",
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "MEHERPUR",
-        "districtTenantCode": "as.meherpur",
+        "districtCode": "CACHAR",
+        "districtTenantCode": "as.silchar",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1665",
         "ddrName": "Meherpur Gram Panchayat"
@@ -1526,10 +1526,10 @@
       "emailId": "info.kanakpurgp@gmail.com",
       "city": {
         "name": "Kanakpur",
-        "districtName": null,
+        "districtName": "Cachar",
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "KANAKPUR",
-        "districtTenantCode": "as.kanakpur",
+        "districtCode": "CACHAR",
+        "districtTenantCode": "as.silchar",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1666",
         "ddrName": "Kanakpur Gram Panchayat"
@@ -1547,10 +1547,10 @@
       "emailId": "info.rongpurgp@gmail.com",
       "city": {
         "name": "Rongpur",
-        "districtName": null,
+        "districtName": "Cachar",
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "RONGPUR",
-        "districtTenantCode": "as.rongpur",
+        "districtCode": "CACHAR",
+        "districtTenantCode": "as.silchar",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1667",
         "ddrName": "Rongpur Gram Panchayat"
@@ -1568,10 +1568,10 @@
       "emailId": "info.uttarkrishnapurgp@gmail.com",
       "city": {
         "name": "Uttar Krishnapur",
-        "districtName": null,
+        "districtName": "Cachar",
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "UTTAR_KRISHNAPUR",
-        "districtTenantCode": "as.uttarkrishnapur",
+        "districtCode": "CACHAR",
+        "districtTenantCode": "as.silchar",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1668",
         "ddrName": "Uttar Krishnapur Gram Panchayat"
@@ -1589,10 +1589,10 @@
       "emailId": "info.dakshinkrishnapurgp@gmail.com",
       "city": {
         "name": "Dakshin Krishnapur",
-        "districtName": null,
+        "districtName": "Cachar",
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "DAKSHIN_KRISHNAPUR",
-        "districtTenantCode": "as.dakshinkrishnapur",
+        "districtCode": "CACHAR",
+        "districtTenantCode": "as.silchar",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1669",
         "ddrName": "Dakshin Krishnapur Gram Panchayat"
@@ -1610,10 +1610,10 @@
       "emailId": "info.tupkhanagp@gmail.com",
       "city": {
         "name": "Tupkhana",
-        "districtName": null,
+        "districtName": "Cachar",
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "TUPKHANA",
-        "districtTenantCode": "as.tupkhana",
+        "districtCode": "CACHAR",
+        "districtTenantCode": "as.silchar",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1670",
         "ddrName": "Tupkhana Gram Panchayat"
@@ -1631,10 +1631,10 @@
       "emailId": "info.ghoungoorgp@gmail.com",
       "city": {
         "name": "107 No. Ghoungoor",
-        "districtName": null,
+        "districtName": "Cachar",
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "107_NO_GHOUNGOOR",
-        "districtTenantCode": "as.ghoungoor",
+        "districtCode": "CACHAR",
+        "districtTenantCode": "as.silchar",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1671",
         "ddrName": "107 No. Ghoungoor Gram Panchayat"
@@ -1652,10 +1652,10 @@
       "emailId": "info.bhorakhaigp@gmail.com",
       "city": {
         "name": "Bhorakhai",
-        "districtName": null,
+        "districtName": "Cachar",
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "BHORAKHAI",
-        "districtTenantCode": "as.bhorakhai",
+        "districtCode": "CACHAR",
+        "districtTenantCode": "as.silchar",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1672",
         "ddrName": "Bhorakhai Gram Panchayat"
@@ -1673,10 +1673,10 @@
       "emailId": "info.tarutajabarigp@gmail.com",
       "city": {
         "name": "Tarutajabari",
-        "districtName": null,
+        "districtName": "Cachar",
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "TARUTAJABARI",
-        "districtTenantCode": "as.tarutajabari",
+        "districtCode": "CACHAR",
+        "districtTenantCode": "as.silchar",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1673",
         "ddrName": "Tarutajabari Gram Panchayat"
@@ -1694,10 +1694,10 @@
       "emailId": "info.chenkoorigp@gmail.com",
       "city": {
         "name": "Chenkoori",
-        "districtName": null,
+        "districtName": "Cachar",
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "CHENKOORI",
-        "districtTenantCode": "as.chenkoori",
+        "districtCode": "CACHAR",
+        "districtTenantCode": "as.silchar",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1674",
         "ddrName": "Chenkoori Gram Panchayat"
@@ -1715,10 +1715,10 @@
       "emailId": "info.rajnagargp@gmail.com",
       "city": {
         "name": "Rajnagar",
-        "districtName": null,
+        "districtName": "Cachar",
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "RAJNAGAR",
-        "districtTenantCode": "as.rajnagar",
+        "districtCode": "CACHAR",
+        "districtTenantCode": "as.silchar",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1675",
         "ddrName": "Rajnagar Gram Panchayat"
@@ -1736,10 +1736,10 @@
       "emailId": "info.kumarparanizjoinagargp@gmail.com",
       "city": {
         "name": "Kumarpara Nizjoinagar",
-        "districtName": null,
+        "districtName": "Cachar",
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "KUMARPARA_NIZJOINAGAR",
-        "districtTenantCode": "as.kumarparanizjoinagar",
+        "districtCode": "CACHAR",
+        "districtTenantCode": "as.silchar",
         "planningAreaCode": "SILCHAR_MP",
         "code": "1676",
         "ddrName": "Kumarpara Nizjoinagar Gram Panchayat"
