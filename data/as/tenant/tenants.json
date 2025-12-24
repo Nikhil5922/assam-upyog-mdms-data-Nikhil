@@ -5778,7 +5778,7 @@
       }
     },
     {
-      "code": "as.sonitpurda",
+      "code": "as.tezpurda",
       "name": "Tezpur Development Authority",
       "description": "Tezpur DA",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
@@ -5786,12 +5786,12 @@
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "emailId": "info.sonitpurda@gmail.com",
+      "emailId": "info.tezpurda@gmail.com",
       "city": {
         "name": "Tezpur DA",
         "districtCode": "SONITPUR",
         "districtName": "Sonitpur",
-        "districtTenantCode": "as.sonitpurda",
+        "districtTenantCode": "as.tezpurda",
         "planningAreaCode": "TEZPUR_MP",
         "ulbGrade": "DEVELOPMENT_AUTHORITY",
         "code": "2007",
@@ -6115,3 +6115,4 @@
     }
   ]
 }
+sonit
