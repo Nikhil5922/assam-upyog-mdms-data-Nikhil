@@ -4,8 +4,8 @@
   "tenants": [
     {
       "code": "as",
-      "name": "State",
-      "description": "State",
+      "name": "Assam",
+      "description": "Assam",
       "logoId": "https://s3.ap-south-1.amazonaws.com/as-egov-assets/as.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -18,12 +18,12 @@
         "Mon - Fri": "9.00 AM - 5.00 PM"
       },
       "city": {
-        "name": "State",
-        "localName": "Demo State",
+        "name": "Assam",
+        "localName": "Assam",
         "districtCode": "0",
-        "districtName": "State",
+        "districtName": "Assam",
         "districtTenantCode": "as",
-        "regionName": "State",
+        "regionName": "Assam",
         "ulbGrade": "ST",
         "longitude": 75.3412,
         "latitude": 31.1471,
