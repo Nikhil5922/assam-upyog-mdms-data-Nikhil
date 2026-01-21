@@ -21593,7 +21593,7 @@
   "enabled": true,
   "serviceCode": "OBPS",
   "code": "null",
-  "path": "OBPS.Obps Reports.obpsApplicationReport",
+  "path": "OBPS.obps Reports.obpsApplicationReport",
   "navigationURL": "report/rainmaker-obps/obpsApplicationReport",
   "leftIcon": "places:business-center",
   "rightIcon": ""
